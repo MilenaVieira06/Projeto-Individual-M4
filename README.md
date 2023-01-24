@@ -6,9 +6,13 @@ EXISTEM OUTRAS ENTIDADES ALÉM DESSAS TRÊS?
 
 Sim, foram criadas as entidades "Professor e Matrícula".
 
+
+
 QUAIS SÃO OS PRINCIPAIS CAMPOS E TIPOS?
 
 Principais campos: ID e Nomes Principais - Tipos: INT E VARCHAR.
+
+
 
 COMO AS ENTIDADES ESTÃO RELACIONADAS?
 
